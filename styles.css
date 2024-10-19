@@ -15,3 +15,11 @@ h3 {
     color: #355C7D;
     text-align: left;
 }
+.projects { display:flex; flex-wrap:wrap; }
+.project {
+    width: 30%;
+    margin: 10px;
+    padding: 20px 10px;
+    background: #C0C8CF;
+    border-radius: 25%;
+}
