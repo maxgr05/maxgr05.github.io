@@ -23,3 +23,19 @@ h3 {
     background: #C0C8CF;
     border-radius: 25%;
 }
+.project img{
+    width: 300px;
+    height: 420px;
+    margin: 10px;
+    border: 2px solid hex(#355C7D);
+    display: block;
+    margin: auto;
+} 
+a {
+    text-decoration: none;
+    color: purple;
+}
+.project p {
+    text-align: center;
+    margin: 15px;
+}
