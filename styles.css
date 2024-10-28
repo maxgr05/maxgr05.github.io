@@ -13,7 +13,7 @@ h2 {
 }
 h3 {
     color: #355C7D;
-    text-align: left;
+    text-align: center;
 }
 .projects { display:flex; flex-wrap:wrap; }
 .project {
@@ -24,8 +24,8 @@ h3 {
     border-radius: 25%;
 }
 .project img{
-    width: 100px;
-    height: 140px;
+    width: 240 px;
+    height: 100px;
     margin: 10px;
     border: 2px solid hex(#355C7D);
     display: block;
