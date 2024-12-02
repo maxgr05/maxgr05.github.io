@@ -22,9 +22,9 @@ h3 {
     margin-left: 100px;
     justify-content: center;
 }
-.about img {
+img {
     width: 150px;
-    height:200px;
+    height: 200px;
     border-radius: 25%;
     border: 2px solid rgb(126, 14, 201);
 }
