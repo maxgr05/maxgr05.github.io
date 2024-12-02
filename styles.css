@@ -27,6 +27,8 @@ h3 {
     height: 200px;
     border-radius: 25%;
     border: 2px solid rgb(126, 14, 201);
+    display: flex;
+    margin: auto;
 }
 .about p {
     width: 50%;
