@@ -22,7 +22,7 @@ h3 {
     margin-left: 100px;
     justify-content: center;
 }
-img {
+.about img {
     width: 150px;
     height: 200px;
     border-radius: 25%;
