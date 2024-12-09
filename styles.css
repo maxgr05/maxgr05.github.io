@@ -36,8 +36,11 @@ h3 {
     margin: auto;
     line-height: 125%;
 }
+.skills{
+    
+}
 .project {
-    display: flex; 
+    display: block; 
     flex-wrap: wrap;
     width: 30%;
     margin: 10px;
